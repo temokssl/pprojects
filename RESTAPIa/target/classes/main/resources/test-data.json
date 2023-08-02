@@ -1,0 +1,13 @@
+{
+	"CORRECT_USERID" : "10",
+	"CORRECT_ID" : "99",
+	"WRONG_ID" : "150",
+	"USER_ID" : "5",
+	"POST_USER_ID" : "1",
+	"RANDOM_STRING_LENGTH" : "10",
+	"ALPHABETIC_RANGE_SIZE" : "26",
+	"KEYWORD" : "id",
+	"CASE_FIVE_ID" : "5",
+	"EMPTY_BODY" : "{}",
+	"USER_DATA_TEST_FILE": "src/main/resources/user-data.json"
+}
