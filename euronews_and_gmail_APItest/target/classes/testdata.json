@@ -1,0 +1,7 @@
+{
+  "EMAIL" : "task3acc@gmail.com",
+  "SUBS_QUERY" : "subject:Please Confirm Subscription",
+  "UNSUBS_QUERY" : "subject:Unsubscription",
+  "QUERY_PARAM": "q",
+  "ACCESS_TOKEN" : ""
+}
