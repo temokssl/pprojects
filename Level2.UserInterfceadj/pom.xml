@@ -1,0 +1,49 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dddd</groupId>
+  <artifactId>dddd</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>17</release>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+ <properties>
+        <maven.compiler.source>12</maven.compiler.source>
+        <maven.compiler.target>12</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+<dependencies>
+    <dependency>
+        <groupId>com.github.aquality-automation</groupId>
+        <artifactId>aquality-selenium</artifactId>
+        <version>4.0.0</version>
+    </dependency>
+	<!-- https://mvnrepository.com/artifact/org.robotframework/robotframework -->
+	<dependency>
+    	<groupId>org.robotframework</groupId>
+    	<artifactId>robotframework</artifactId>
+    	<version>4.1.2</version>
+	</dependency>
+        <dependency>
+            <groupId>org.passay</groupId>
+            <artifactId>passay</artifactId>
+            <version>1.6.2</version>
+        </dependency>
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>7.6.1</version>
+        <scope>test</scope>
+    </dependency>
+
+    </dependencies>
+</project>
+
