@@ -1,0 +1,7 @@
+{
+  "GET_PREC_TESTS_QUERY" : "SELECT * FROM union_reporting.test WHERE project_id = %d and author_id = %d",
+  "GET_TEST_DATA_QUERY" : "SELECT * FROM union_reporting.test WHERE name = 'test';",
+  "GET_TESTS_QUERY" : "SELECT * FROM union_reporting.test WHERE id IN",
+  "GET AUTHOR_DATA_QUERY" : "SELECT * FROM union_reporting.author WHERE name = 'temo'",
+  "GET_PROJECT_DATA_QUERY" : "SELECT * FROM union_reporting.project WHERE name = 'temo'"
+}
