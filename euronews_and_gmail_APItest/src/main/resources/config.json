@@ -1,0 +1,7 @@
+{
+  "PROTOCOL" : "https",
+  "URL": "https://www.euronews.com/",
+  "BASE_API" : "gmail.googleapis.com",
+  "MESSAGES_ENDPOINT" : "/gmail/v1/users/me/messages",
+  "GET_MESSAGE_ENDPOINT" : "https://gmail.googleapis.com/gmail/v1/users/me/messages/"
+}
