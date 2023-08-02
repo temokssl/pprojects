@@ -1,5 +1,0 @@
-{
-	"POSTS_ENDPOINT" : "/posts",
-	"USERS_ENDPOINT" : "/users",
-	"API" : "https://jsonplaceholder.typicode.com"
-}
