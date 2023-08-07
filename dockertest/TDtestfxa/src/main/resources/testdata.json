@@ -1,0 +1,11 @@
+{
+	"IMAGE_PATH" : "src/main/resources/ovst.jpg",
+  "USERNAME" : "",
+  "PASSWORD" : "",
+  "VARIANT" : "2",
+  "NEW_LOG_MESSAGE" : "hi world this is a testing message",
+  "PROJECT_NAME" : "Nexage",
+  "NEW_TEST_NAME" : "A1qa test",
+  "NEW_METHOD_NAME" : "com.nexage.tests.deals.VerifyThatItsPossibleToCloneDeal#xTest",
+  "CHARS_RANGE" : "5"
+}
